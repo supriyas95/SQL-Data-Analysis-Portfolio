@@ -15,7 +15,7 @@ You're working at **Amazon**, a leading e-commerce platform. The management team
 - Performed **text-based filtering** on reviews mentioning *fast charging* or *negative sentiment*.
 - Analyzed **price vs. discount gap** and product categories.
 
-🔗 **Dataset**: [Amazon Sales Dataset](https://drive.google.com/file/d/1hJOXNpOUXOpyjsrBt1O8MyIJHfWgzakS/view)
+🔗 **Dataset**: https://drive.google.com/drive/folders/1Elib89-HOp4brdUJ9LZAZkJDdGx597Zy?usp=sharing
 
 ---
 
@@ -30,7 +30,7 @@ You're analyzing Swiggy's SQL database to understand restaurant performance, cus
 - Tracked **delivery partners** with highest reach and repeated deliveries.
 - Filtered **orders from the last 30 days** and **specific behaviors** like 3-day unique orders.
 
-🔗 **Dataset**: [Swiggy SQL Dataset](https://drive.google.com/file/d/1S32wPjwNUlhi2G5xiW3_wZvGVKipJq-b/view)
+🔗 **Dataset**: https://drive.google.com/drive/folders/10QH7VnQ9usynETCKL3DwJqGl9YPc5FHL?usp=sharing
 
 ---
 
@@ -46,7 +46,7 @@ As a data analyst at **Jenson USA**, you're tasked with uncovering operational a
 - Detected **100+ products never ordered**, indicating inventory misfit.
 - Discovered **9 customers who ordered from every category**.
 
-🔗 **Dataset**: [Jenson USA SQL Dataset](https://drive.google.com/drive/folders/1feFkClnYME7Be3kjmz-TD2PV1uVkXNAN)
+🔗 **Dataset**: https://drive.google.com/drive/folders/1DiYLyBIwY7ZWM1CqPB4k4LKsTBcF4Vzl?usp=drive_link
 
 ---
 
